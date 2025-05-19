@@ -288,7 +288,7 @@ There are many R packages for calculating risk for cardiovascular disease (CVD).
 
 :::
 
-## Features of `pretestcad` 1
+## Features of `pretestcad`
 
 ```{r}
 #| label: esc 2024 risk score example 1
@@ -319,7 +319,7 @@ calculate_esc_2024_fig_4_ptp(
 
 :::
 
-## Features of `pretestcad` 2
+## Features of `pretestcad`
 
 ```{r}
 #| label: esc 2024 risk score example 2
@@ -352,7 +352,7 @@ calculate_esc_2024_fig_4_ptp(
 
 :::
 
-## Features of `pretestcad` 3
+## Features of `pretestcad`
 
 ```{r}
 #| label: esc 2024 risk score example 3
@@ -406,7 +406,7 @@ print(risk_data)
 
 :::
 
-## Features of `pretestcad` 4
+## Features of `pretestcad`
 
 :::: {.columns}
 
