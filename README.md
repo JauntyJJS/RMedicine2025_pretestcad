@@ -1,5 +1,4 @@
-# pretestcad - An R package for Pretest Probability for Coronary Artery
-Disease
+# pretestcad - An R package for Pretest Probability for CAD
 
 
 Here are the

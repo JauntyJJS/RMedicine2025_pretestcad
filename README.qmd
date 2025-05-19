@@ -1,5 +1,5 @@
 ---
-title: "pretestcad - An R package for Pretest Probability for Coronary Artery Disease"
+title: pretestcad - An R package for Pretest Probability for CAD
 format: gfm
 ---
 
