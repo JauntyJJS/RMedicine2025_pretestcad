@@ -23,21 +23,21 @@ format:
     include-after-body: no_logo_at_title_slide.js
     # include-in-header: 
     #   text: |
-    #     <meta name="github-repo" content="JauntyJJS/rugs_20241129" />
-    #     <meta name="twitter:title" content="Introduction to Quarto Dashboards" />
-    #     <meta name="twitter:description" content="Presentation for R User Group Singapore Meetup on 29 November 2024." />
-    #     <meta name="twitter:url" content="https://jauntyjjs.github.io/rugs_20241129" />
-    #     <meta name="twitter:image" content="https://raw.githubusercontent.com/JauntyJJS/rugs_20241129/main/share-card.png" />
-    #     <meta name="twitter:image:alt" content="Title slide of Introduction to Quarto Dashboards presented at R User Group Singapore Meetup on 29 November 2024." />
+    #     <meta name="github-repo" content="JauntyJJS/RMedicine2025_pretestcad" />
+    #     <meta name="twitter:title" content="pretestcad - An R package for Pretest Probability for Coronary Artery Disease." />
+    #     <meta name="twitter:description" content="Presentation for R/Medicine 2025." />
+    #     <meta name="twitter:url" content="https://jauntyjjs.github.io/RMedicine2025_pretestcad" />
+    #     <meta name="twitter:image" content="https://raw.githubusercontent.com/JauntyJJS/RMedicine2025_pretestcad/main/share-card.png" />
+    #     <meta name="twitter:image:alt" content="Title slide of pretestcad - An R package for Pretest Probability for Coronary Artery Disease presented at R/Medicine 2025." />
     #     <meta name="twitter:card" content="summary_large_image" />
     #     <meta name="twitter:creator" content="@JauntyJJS" />
     #     <meta name="twitter:site" content="@JauntyJJS" />
-    #     <meta property="og:title" content="Introduction to Quarto Dashboards" />
-    #     <meta property="og:description" content="Presentation for R User Group Singapore Meetup on 29 November 2024." />
-    #     <meta property="og:url" content="https://jauntyjjs.github.io/rugs_20241129" />
-    #     <meta property="og:image" content="https://raw.githubusercontent.com/JauntyJJS/rugs_20241129/main/share-card.png" />
-    #     <meta property="og:image:alt" content="Title slide of Introduction to Quarto Dashboards presented at R User Group Singapore Meetup on 29 November 2024." />
-    #     <meta property="og:site_name" content="R User Group Singapore Meetup on 29 November 2024" />
+    #     <meta property="og:title" content="pretestcad - An R package for Pretest Probability for Coronary Artery Disease." />
+    #     <meta property="og:description" content="Presentation for R/Medicine 2025." />
+    #     <meta property="og:url" content="https://jauntyjjs.github.io/RMedicine2025_pretestcad" />
+    #     <meta property="og:image" content="https://raw.githubusercontent.com/JauntyJJS/RMedicine2025_pretestcad/main/share-card.png" />
+    #     <meta property="og:image:alt" content="Title slide of pretestcad - An R package for Pretest Probability for Coronary Artery Disease presented at R/Medicine 2025.." />
+    #     <meta property="og:site_name" content="R/Medicine 2025" />
     #     <meta property="og:type" content="website" />
     #     <meta property="og:locale" content="en_UK" />
     #     <meta property="article:author" content="Jeremy Selva" />
@@ -90,6 +90,13 @@ Research Officer from [National Heart Centre Singapore](https://www.nhcs.com.sg/
 
 [Taming the Data Beast from ["Cleaning Medical Data with R"](https://www.pipinghotdata.com/workshops/2023-06-06-cleaning-medical-data-with-r/){target="_blank"} workshop by Shannon Pileggi, Crystal Lewis and Petter Higgins presented at R/Medicine 2023. Illustrated by [Allison Horst](https://allisonhorst.com/){target="_blank"}]{style="font-size: 80%;"}.
 
+::: footer
+
+[https://jauntyjjs.github.io/RMedicine2025_pretestcad
+`r fontawesome::fa(name = "link", fill = "#666666")`](https://jauntyjjs.github.io/RMedicine2025_pretestcad){target="_blank"} [`r fontawesome::fa(name = "github", fill = "#000000")`](https://github.com/JauntyJJS/RMedicine2025_pretestcad){target="_blank"} [`r fontawesome::fa(name = "file-pdf", fill = "#b50b00")`](https://raw.githubusercontent.com/JauntyJJS/RMedicine2025_pretestcad/main/index.pdf){target="_blank"}
+
+:::
+
 ## What is Coronary Artery Disease (CAD) ?
 
 Coronary Artery Disease (CAD) happens when the coronary arteries from the heart become narrow or blocked by fatty deposits called plaque. This can lead to chest pain, shortness of breath or even heart attack.
@@ -97,6 +104,13 @@ Coronary Artery Disease (CAD) happens when the coronary arteries from the heart 
 ![](images/cad.jpg){fig-alt="Picture showing coronary arteries from the heart become narrow or blocked by fatty deposits called plaque." fig-align="center" width="70%"}
 
 [[Coronary Artery Disease for health education Infographic](https://www.freepik.com/free-vector/coronary-artery-disease-health-education-infographic_10139045.htm){target="_blank"} designed by [brgfx](https://www.freepik.com/author/brgfx){target="_blank"} from [Freepik](http://www.freepik.com){target="_blank"}]{style="font-size: 80%;"}.
+
+::: footer
+
+[https://jauntyjjs.github.io/RMedicine2025_pretestcad
+`r fontawesome::fa(name = "link", fill = "#666666")`](https://jauntyjjs.github.io/RMedicine2025_pretestcad){target="_blank"} [`r fontawesome::fa(name = "github", fill = "#000000")`](https://github.com/JauntyJJS/RMedicine2025_pretestcad){target="_blank"} [`r fontawesome::fa(name = "file-pdf", fill = "#b50b00")`](https://raw.githubusercontent.com/JauntyJJS/RMedicine2025_pretestcad/main/index.pdf){target="_blank"}
+
+:::
 
 ## What is Coronary Artery Disease (CAD) ?
 
@@ -106,6 +120,13 @@ Early detection and treatment of CAD can help improve the patient's outcome. Dia
 
 [Images from Latina et al. *Radiology: Cardiothoracic Imaging* 2021; 3(4):e210053 doi: [10.1148/ryct.2021210053](https://doi.org/10.1148/ryct.2021210053){target="_blank"}]{style="font-size: 80%;"}.
 
+::: footer
+
+[https://jauntyjjs.github.io/RMedicine2025_pretestcad
+`r fontawesome::fa(name = "link", fill = "#666666")`](https://jauntyjjs.github.io/RMedicine2025_pretestcad){target="_blank"} [`r fontawesome::fa(name = "github", fill = "#000000")`](https://github.com/JauntyJJS/RMedicine2025_pretestcad){target="_blank"} [`r fontawesome::fa(name = "file-pdf", fill = "#b50b00")`](https://raw.githubusercontent.com/JauntyJJS/RMedicine2025_pretestcad/main/index.pdf){target="_blank"}
+
+:::
+
 ## What is Pretest Probability ?
 
 Pretest probability is the estimated probability, given a set of risk factors, that a patient has a specific disease or condition before any diagnostic tests are performed. It helps clinicians and doctors makes informed decision on which patients go for diagnostic tests, especially if the diagnostic test is expensive, invasive or time consuming to the patient.
@@ -113,6 +134,13 @@ Pretest probability is the estimated probability, given a set of risk factors, t
 ![](images/esc_2024_guidelines.png){fig-alt="European Society of Cardiology (ESC) 2024 guidelines of first-line testing in symptomatic individuals with suspected chronic coronary syndrome." fig-align="center" width="70%"}
 
 [[European Society of Cardiology (ESC) 2024 guidelines](https://doi.org/10.1093/eurheartj/ehae177){target="_blank"} of first-line testing in symptomatic individuals with suspected chronic coronary syndrome]{style="font-size: 80%;"}.
+
+::: footer
+
+[https://jauntyjjs.github.io/RMedicine2025_pretestcad
+`r fontawesome::fa(name = "link", fill = "#666666")`](https://jauntyjjs.github.io/RMedicine2025_pretestcad){target="_blank"} [`r fontawesome::fa(name = "github", fill = "#000000")`](https://github.com/JauntyJJS/RMedicine2025_pretestcad){target="_blank"} [`r fontawesome::fa(name = "file-pdf", fill = "#b50b00")`](https://raw.githubusercontent.com/JauntyJJS/RMedicine2025_pretestcad/main/index.pdf){target="_blank"}
+
+:::
 
 ## Pretest Probability Calculation
 
@@ -137,6 +165,13 @@ Pretest probability of CAD may be presented in the form of a table or an online 
 :::
 
 ::::
+
+::: footer
+
+[https://jauntyjjs.github.io/RMedicine2025_pretestcad
+`r fontawesome::fa(name = "link", fill = "#666666")`](https://jauntyjjs.github.io/RMedicine2025_pretestcad){target="_blank"} [`r fontawesome::fa(name = "github", fill = "#000000")`](https://github.com/JauntyJJS/RMedicine2025_pretestcad){target="_blank"} [`r fontawesome::fa(name = "file-pdf", fill = "#b50b00")`](https://raw.githubusercontent.com/JauntyJJS/RMedicine2025_pretestcad/main/index.pdf){target="_blank"}
+
+:::
 
 ## Motivation
 
@@ -170,6 +205,13 @@ Tables are getting more complicated as more risk factors are used to calculate.
 
 ::::
 
+::: footer
+
+[https://jauntyjjs.github.io/RMedicine2025_pretestcad
+`r fontawesome::fa(name = "link", fill = "#666666")`](https://jauntyjjs.github.io/RMedicine2025_pretestcad){target="_blank"} [`r fontawesome::fa(name = "github", fill = "#000000")`](https://github.com/JauntyJJS/RMedicine2025_pretestcad){target="_blank"} [`r fontawesome::fa(name = "file-pdf", fill = "#b50b00")`](https://raw.githubusercontent.com/JauntyJJS/RMedicine2025_pretestcad/main/index.pdf){target="_blank"}
+
+:::
+
 ## Motivation
 
 As pretest models changes with time, tedious to calculate and update pretest probability one patient at a time.
@@ -195,6 +237,13 @@ As pretest models changes with time, tedious to calculate and update pretest pro
 
 ::::
 
+::: footer
+
+[https://jauntyjjs.github.io/RMedicine2025_pretestcad
+`r fontawesome::fa(name = "link", fill = "#666666")`](https://jauntyjjs.github.io/RMedicine2025_pretestcad){target="_blank"} [`r fontawesome::fa(name = "github", fill = "#000000")`](https://github.com/JauntyJJS/RMedicine2025_pretestcad){target="_blank"} [`r fontawesome::fa(name = "file-pdf", fill = "#b50b00")`](https://raw.githubusercontent.com/JauntyJJS/RMedicine2025_pretestcad/main/index.pdf){target="_blank"}
+
+:::
+
 ## Motivation
 
 There are many R packages for calculating risk for cardiovascular disease (CVD). Why not create one for CAD ?
@@ -219,11 +268,25 @@ There are many R packages for calculating risk for cardiovascular disease (CVD).
 
 ::::
 
+::: footer
+
+[https://jauntyjjs.github.io/RMedicine2025_pretestcad
+`r fontawesome::fa(name = "link", fill = "#666666")`](https://jauntyjjs.github.io/RMedicine2025_pretestcad){target="_blank"} [`r fontawesome::fa(name = "github", fill = "#000000")`](https://github.com/JauntyJJS/RMedicine2025_pretestcad){target="_blank"} [`r fontawesome::fa(name = "file-pdf", fill = "#b50b00")`](https://raw.githubusercontent.com/JauntyJJS/RMedicine2025_pretestcad/main/index.pdf){target="_blank"}
+
+:::
+
 ## `pretestcad`
 
 ```{=html}
 <iframe width="1000" height="600" src="https://jauntyjjs.github.io/pretestcad/index.html" title="pretestcad Documentation" ></iframe>
 ```
+
+::: footer
+
+[https://jauntyjjs.github.io/RMedicine2025_pretestcad
+`r fontawesome::fa(name = "link", fill = "#666666")`](https://jauntyjjs.github.io/RMedicine2025_pretestcad){target="_blank"} [`r fontawesome::fa(name = "github", fill = "#000000")`](https://github.com/JauntyJJS/RMedicine2025_pretestcad){target="_blank"} [`r fontawesome::fa(name = "file-pdf", fill = "#b50b00")`](https://raw.githubusercontent.com/JauntyJJS/RMedicine2025_pretestcad/main/index.pdf){target="_blank"}
+
+:::
 
 ## Features of `pretestcad`
 
@@ -250,6 +313,13 @@ calculate_esc_2024_fig_4_ptp(
 
 [ESC 2024 guidelines from Vrints et al. *European Heart journal* 2024; 45(36):3415-3537 doi: [10.1093/eurheartj/ehae177](https://doi.org/10.1093/eurheartj/ehae177){target="_blank"}]{style="font-size: 70%;"}.
 
+::: footer
+
+[https://jauntyjjs.github.io/RMedicine2025_pretestcad
+`r fontawesome::fa(name = "link", fill = "#666666")`](https://jauntyjjs.github.io/RMedicine2025_pretestcad){target="_blank"} [`r fontawesome::fa(name = "github", fill = "#000000")`](https://github.com/JauntyJJS/RMedicine2025_pretestcad){target="_blank"} [`r fontawesome::fa(name = "file-pdf", fill = "#b50b00")`](https://raw.githubusercontent.com/JauntyJJS/RMedicine2025_pretestcad/main/index.pdf){target="_blank"}
+
+:::
+
 ## Features of `pretestcad`
 
 ```{r}
@@ -275,6 +345,13 @@ calculate_esc_2024_fig_4_ptp(
 ![](images/esc_2024_table.jpg){fig-alt="ESC 2024 pretest probability of CAD table." fig-align="center" width="70%"}
 
 [ESC 2024 guidelines from Vrints et al. *European Heart journal* 2024; 45(36):3415-3537 doi: [10.1093/eurheartj/ehae177](https://doi.org/10.1093/eurheartj/ehae177){target="_blank"}]{style="font-size: 70%;"}.
+
+::: footer
+
+[https://jauntyjjs.github.io/RMedicine2025_pretestcad
+`r fontawesome::fa(name = "link", fill = "#666666")`](https://jauntyjjs.github.io/RMedicine2025_pretestcad){target="_blank"} [`r fontawesome::fa(name = "github", fill = "#000000")`](https://github.com/JauntyJJS/RMedicine2025_pretestcad){target="_blank"} [`r fontawesome::fa(name = "file-pdf", fill = "#b50b00")`](https://raw.githubusercontent.com/JauntyJJS/RMedicine2025_pretestcad/main/index.pdf){target="_blank"}
+
+:::
 
 ## Features of `pretestcad`
 
@@ -322,6 +399,13 @@ risk_data <- patient_data |>
 
 print(risk_data)
 ```
+
+::: footer
+
+[https://jauntyjjs.github.io/RMedicine2025_pretestcad
+`r fontawesome::fa(name = "link", fill = "#666666")`](https://jauntyjjs.github.io/RMedicine2025_pretestcad){target="_blank"} [`r fontawesome::fa(name = "github", fill = "#000000")`](https://github.com/JauntyJJS/RMedicine2025_pretestcad){target="_blank"} [`r fontawesome::fa(name = "file-pdf", fill = "#b50b00")`](https://raw.githubusercontent.com/JauntyJJS/RMedicine2025_pretestcad/main/index.pdf){target="_blank"}
+
+:::
 
 ## Features of `pretestcad`
 
@@ -383,6 +467,13 @@ calculate_esc_2024_fig_4_ptp(
 
 ::::
 
+::: footer
+
+[https://jauntyjjs.github.io/RMedicine2025_pretestcad
+`r fontawesome::fa(name = "link", fill = "#666666")`](https://jauntyjjs.github.io/RMedicine2025_pretestcad){target="_blank"} [`r fontawesome::fa(name = "github", fill = "#000000")`](https://github.com/JauntyJJS/RMedicine2025_pretestcad){target="_blank"} [`r fontawesome::fa(name = "file-pdf", fill = "#b50b00")`](https://raw.githubusercontent.com/JauntyJJS/RMedicine2025_pretestcad/main/index.pdf){target="_blank"}
+
+:::
+
 ## Conclusion
 
 :::: {.columns}
@@ -400,8 +491,6 @@ Available on [Github](https://github.com/JauntyJJS/pretestcad){target="_blank"}.
 
 :::
 
-:::: {.columns}
-
 ::: {.column width="50%"}
 
 ![](images/pretestcad.png){fig-alt="Hex Sticker of pretestcad." fig-align="center" width="80%"}
@@ -409,3 +498,10 @@ Available on [Github](https://github.com/JauntyJJS/pretestcad){target="_blank"}.
 :::
 
 ::::
+
+::: footer
+
+[https://jauntyjjs.github.io/RMedicine2025_pretestcad
+`r fontawesome::fa(name = "link", fill = "#666666")`](https://jauntyjjs.github.io/RMedicine2025_pretestcad){target="_blank"} [`r fontawesome::fa(name = "github", fill = "#000000")`](https://github.com/JauntyJJS/RMedicine2025_pretestcad){target="_blank"} [`r fontawesome::fa(name = "file-pdf", fill = "#b50b00")`](https://raw.githubusercontent.com/JauntyJJS/RMedicine2025_pretestcad/main/index.pdf){target="_blank"}
+
+:::
