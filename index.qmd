@@ -16,31 +16,31 @@ format:
     transition: fade
     background-transition: fade
     highlight-style: breeze
-    # logo: images/qr.png
+    logo: images/qr.png
     pointer:
       pointerSize: 24
       color: '#32cd32'
     include-after-body: no_logo_at_title_slide.js
-    # include-in-header: 
-    #   text: |
-    #     <meta name="github-repo" content="JauntyJJS/RMedicine2025_pretestcad" />
-    #     <meta name="twitter:title" content="pretestcad - An R package for Pretest Probability for Coronary Artery Disease." />
-    #     <meta name="twitter:description" content="Presentation for R/Medicine 2025." />
-    #     <meta name="twitter:url" content="https://jauntyjjs.github.io/RMedicine2025_pretestcad" />
-    #     <meta name="twitter:image" content="https://raw.githubusercontent.com/JauntyJJS/RMedicine2025_pretestcad/main/share-card.png" />
-    #     <meta name="twitter:image:alt" content="Title slide of pretestcad - An R package for Pretest Probability for Coronary Artery Disease presented at R/Medicine 2025." />
-    #     <meta name="twitter:card" content="summary_large_image" />
-    #     <meta name="twitter:creator" content="@JauntyJJS" />
-    #     <meta name="twitter:site" content="@JauntyJJS" />
-    #     <meta property="og:title" content="pretestcad - An R package for Pretest Probability for Coronary Artery Disease." />
-    #     <meta property="og:description" content="Presentation for R/Medicine 2025." />
-    #     <meta property="og:url" content="https://jauntyjjs.github.io/RMedicine2025_pretestcad" />
-    #     <meta property="og:image" content="https://raw.githubusercontent.com/JauntyJJS/RMedicine2025_pretestcad/main/share-card.png" />
-    #     <meta property="og:image:alt" content="Title slide of pretestcad - An R package for Pretest Probability for Coronary Artery Disease presented at R/Medicine 2025.." />
-    #     <meta property="og:site_name" content="R/Medicine 2025" />
-    #     <meta property="og:type" content="website" />
-    #     <meta property="og:locale" content="en_UK" />
-    #     <meta property="article:author" content="Jeremy Selva" />
+    include-in-header:
+      text: |
+        <meta name="github-repo" content="JauntyJJS/RMedicine2025_pretestcad" />
+        <meta name="twitter:title" content="pretestcad - An R package for Pretest Probability for Coronary Artery Disease." />
+        <meta name="twitter:description" content="Presentation for R/Medicine 2025." />
+        <meta name="twitter:url" content="https://jauntyjjs.github.io/RMedicine2025_pretestcad" />
+        <meta name="twitter:image" content="https://raw.githubusercontent.com/JauntyJJS/RMedicine2025_pretestcad/main/share-card.png" />
+        <meta name="twitter:image:alt" content="Title slide of pretestcad - An R package for Pretest Probability for Coronary Artery Disease presented at R/Medicine 2025." />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:creator" content="@JauntyJJS" />
+        <meta name="twitter:site" content="@JauntyJJS" />
+        <meta property="og:title" content="pretestcad - An R package for Pretest Probability for Coronary Artery Disease." />
+        <meta property="og:description" content="Presentation for R/Medicine 2025." />
+        <meta property="og:url" content="https://jauntyjjs.github.io/RMedicine2025_pretestcad" />
+        <meta property="og:image" content="https://raw.githubusercontent.com/JauntyJJS/RMedicine2025_pretestcad/main/share-card.png" />
+        <meta property="og:image:alt" content="Title slide of pretestcad - An R package for Pretest Probability for Coronary Artery Disease presented at R/Medicine 2025.." />
+        <meta property="og:site_name" content="R/Medicine 2025" />
+        <meta property="og:type" content="website" />
+        <meta property="og:locale" content="en_UK" />
+        <meta property="article:author" content="Jeremy Selva" />
 revealjs-plugins:
   - pointer
 filters:
@@ -309,9 +309,9 @@ calculate_esc_2024_fig_4_ptp(
 )
 ```
 
-![](images/esc_2024_table.jpg){fig-alt="ESC 2024 pretest probability of CAD table." fig-align="center" width="70%"}
+![](images/esc_2024_table.jpg){fig-alt="ESC 2024 pretest probability of CAD table." fig-align="center" width="60%"}
 
-[ESC 2024 guidelines from Vrints et al. *European Heart journal* 2024; 45(36):3415-3537 doi: [10.1093/eurheartj/ehae177](https://doi.org/10.1093/eurheartj/ehae177){target="_blank"}]{style="font-size: 70%;"}.
+[ESC 2024 guidelines from Vrints et al. *European Heart journal* 2024; 45(36):3415-3537 doi: [10.1093/eurheartj/ehae177](https://doi.org/10.1093/eurheartj/ehae177){target="_blank"}]{style="font-size: 60%;"}.
 
 ::: footer
 
