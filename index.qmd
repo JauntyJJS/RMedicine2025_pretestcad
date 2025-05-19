@@ -309,7 +309,7 @@ calculate_esc_2024_fig_4_ptp(
 )
 ```
 
-![](images/esc_2024_table.jpg){fig-alt="ESC 2024 pretest probability of CAD table." fig-align="center" width="70%"}
+![](images/esc_2024_table.jpg){fig-alt="ESC 2024 pretest probability of CAD table." fig-align="center" width="50%"}
 
 [ESC 2024 guidelines from Vrints et al. *European Heart journal* 2024; 45(36):3415-3537 doi: [10.1093/eurheartj/ehae177](https://doi.org/10.1093/eurheartj/ehae177){target="_blank"}]{style="font-size: 70%;"}.
 
