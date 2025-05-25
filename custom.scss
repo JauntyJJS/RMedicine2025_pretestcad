@@ -78,6 +78,12 @@ $code-block-bg: #ffffff;
   margin-bottom: 10px !important;
 }
 
+.reveal pre code {
+  background-color: #ffffff;
+  border-left: 12px solid #ff6226;
+  max-height: 500px;
+}
+
 .reveal section div.center-h {
 	text-align: center;
 }

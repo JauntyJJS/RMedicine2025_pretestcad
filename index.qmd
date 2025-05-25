@@ -36,7 +36,7 @@ format:
         <meta property="og:description" content="Presentation for R/Medicine 2025." />
         <meta property="og:url" content="https://jauntyjjs.github.io/RMedicine2025_pretestcad" />
         <meta property="og:image" content="https://raw.githubusercontent.com/JauntyJJS/RMedicine2025_pretestcad/main/share-card.png" />
-        <meta property="og:image:alt" content="Title slide of pretestcad - An R package for Pretest Probability for Coronary Artery Disease presented at R/Medicine 2025.." />
+        <meta property="og:image:alt" content="Title slide of pretestcad - An R package for Pretest Probability for Coronary Artery Disease presented at R/Medicine 2025." />
         <meta property="og:site_name" content="R/Medicine 2025" />
         <meta property="og:type" content="website" />
         <meta property="og:locale" content="en_UK" />
@@ -114,11 +114,17 @@ Coronary Artery Disease (CAD) happens when the coronary arteries from the heart 
 
 ## What is Coronary Artery Disease (CAD) ?
 
-Early detection and treatment of CAD can help improve the patient's outcome. Diagnosis of CAD includes invasive coronary angiography ("gold standard"), or computerized tomography coronary angiogram (CTCA).
+::: {style="font-size: 80%;"}
+
+Diagnosis of CAD includes invasive coronary angiography (right), or computerized tomography coronary angiogram (left).
+
+Early detection and treatment of CAD can help improve the patient's outcome.
+
+:::
 
 ![](images/detection.jpg){fig-alt="Picture showing diagnosis of Coronary Artery Disease via computerized tomography coronary angiogram on the left and invasive coronary angiography on the right." fig-align="center" width="70%"}
 
-[Images from Latina et al. *Radiology: Cardiothoracic Imaging* 2021; 3(4):e210053 doi: [10.1148/ryct.2021210053](https://doi.org/10.1148/ryct.2021210053){target="_blank"}]{style="font-size: 80%;"}.
+[Images from Latina et al. *Radiology: Cardiothoracic Imaging* 2021; 3(4):e210053 doi: [10.1148/ryct.2021210053](https://doi.org/10.1148/ryct.2021210053){target="_blank"}]{style="font-size: 70%;"}.
 
 ::: footer
 
@@ -129,11 +135,17 @@ Early detection and treatment of CAD can help improve the patient's outcome. Dia
 
 ## What is Pretest Probability ?
 
-Pretest probability is the estimated probability, given a set of risk factors, that a patient has a specific disease or condition before any diagnostic tests are performed. It helps clinicians and doctors makes informed decision on which patients go for diagnostic tests, especially if the diagnostic test is expensive, invasive or time consuming to the patient.
+::: {style="font-size: 70%;"}
+
+Pretest probability is the estimated probability, given a set of risk factors, that a patient has a specific disease or condition before any diagnostic tests are performed. 
+
+It helps clinicians and doctors makes informed decision on which patients go for diagnostic tests, especially if the diagnostic test is expensive, invasive or time consuming to the patient.
+
+:::
 
 ![](images/esc_2024_guidelines.png){fig-alt="European Society of Cardiology (ESC) 2024 guidelines of first-line testing in symptomatic individuals with suspected chronic coronary syndrome." fig-align="center" width="70%"}
 
-[[European Society of Cardiology (ESC) 2024 guidelines](https://doi.org/10.1093/eurheartj/ehae177){target="_blank"} of first-line testing in symptomatic individuals with suspected chronic coronary syndrome]{style="font-size: 80%;"}.
+[[European Society of Cardiology (ESC) 2024 guidelines](https://doi.org/10.1093/eurheartj/ehae177){target="_blank"} of first-line testing in symptomatic individuals with suspected chronic coronary syndrome]{style="font-size: 60%;"}.
 
 ::: footer
 
@@ -479,14 +491,15 @@ calculate_esc_2024_fig_4_ptp(
 
 ::: {.column width="50%"}
 
+::: {style="font-size: 90%;"}
 
 Pretest probability for CAD is useful in patient management to ensure high-risk patients are diagnosed and treated early.
 
 While there are many R packages developed to calculate risk of cardiovascular disease, there is currently no R package dedicated for calculating pretest probability for CAD.
 
-R package `pretestcad` helps to ensure that these values can be calculated efficiently as number of patient increase and pretest probability models evolved over time. 
+R package `pretestcad` helps to ensure that these values can be calculated efficiently as number of patient increase and pretest probability models evolved over time.
 
-Available on [Github](https://github.com/JauntyJJS/pretestcad){target="_blank"}.
+:::
 
 :::
 
@@ -497,6 +510,21 @@ Available on [Github](https://github.com/JauntyJJS/pretestcad){target="_blank"}.
 :::
 
 ::::
+
+::: footer
+
+[https://jauntyjjs.github.io/RMedicine2025_pretestcad
+`r fontawesome::fa(name = "link", fill = "#666666")`](https://jauntyjjs.github.io/RMedicine2025_pretestcad){target="_blank"} [`r fontawesome::fa(name = "github", fill = "#000000")`](https://github.com/JauntyJJS/RMedicine2025_pretestcad){target="_blank"} [`r fontawesome::fa(name = "file-pdf", fill = "#b50b00")`](https://raw.githubusercontent.com/JauntyJJS/RMedicine2025_pretestcad/main/index.pdf){target="_blank"}
+
+:::
+
+## Thank you
+
+Available on [CRAN](https://cran.r-project.org/web/packages/pretestcad/index.html){target="_blank"}, [RUniverse](https://jauntyjjs.r-universe.dev/pretestcad){target="_blank"} and [Github](https://github.com/JauntyJJS/pretestcad){target="_blank"}.
+
+![](images/great_expectations.png){fig-alt="Comic from Monkeyuser.com showing too many bugs to fix during first day of release." fig-align="center" width="50%"}
+
+[[Great Expectations](https://www.monkeyuser.com/2019/great-expectations/){target="_blank"} from [MonkeyUser.com](https://www.monkeyuser.com/){target="_blank"}]{style="font-size: 80%;"}
 
 ::: footer
 
