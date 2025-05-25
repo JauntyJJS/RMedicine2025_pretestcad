@@ -226,7 +226,7 @@ Tables are getting more complicated as more risk factors are used to calculate.
 
 ## Motivation
 
-As pretest models changes with time, tedious to calculate and update pretest probability one patient at a time.
+As pretest models changes with time, it becomes tedious to calculate and update pretest probability one patient at a time.
 
 :::: {.columns}
 
@@ -258,7 +258,9 @@ As pretest models changes with time, tedious to calculate and update pretest pro
 
 ## Motivation
 
-There are many R packages for calculating risk for cardiovascular disease (CVD). Why not create one for CAD ?
+There are many R packages for calculating risk for cardiovascular disease (CVD). 
+
+Why not create one for CAD ?
 
 :::: {.columns}
 
