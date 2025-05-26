@@ -310,7 +310,7 @@ Why not create one for CAD ?
 #| label: esc 2024 risk score example 1
 #| echo: true
 
-# 30 female with symptom score of 3 and 1 risk factors
+# 30 female with symptom score of 3 and 0 risk factors
 calculate_esc_2024_fig_4_ptp(
   age = 30,
   sex = "female",
