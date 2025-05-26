@@ -294,7 +294,7 @@ Why not create one for CAD ?
 <https://jauntyjjs.github.io/pretestcad/>
 
 ```{=html}
-<iframe width="1000" height="600" src="https://jauntyjjs.github.io/pretestcad/index.html" title="pretestcad Documentation" ></iframe>
+<iframe width="1000" height="500" src="https://jauntyjjs.github.io/pretestcad/index.html" title="pretestcad Documentation" ></iframe>
 ```
 
 ::: footer
