@@ -291,7 +291,7 @@ Why not create one for CAD ?
 
 ## `pretestcad`
 
-<https://jauntyjjs.github.io/pretestcad/>
+<https://jauntyjjs.github.io/pretestcad/>{target="_blank"}
 
 ```{=html}
 <iframe width="1000" height="500" src="https://jauntyjjs.github.io/pretestcad/index.html" title="pretestcad Documentation" ></iframe>
