@@ -526,7 +526,7 @@ Available on [CRAN](https://cran.r-project.org/web/packages/pretestcad/index.htm
 
 ![](images/great_expectations.png){fig-alt="Comic from Monkeyuser.com showing too many bugs to fix during first day of release." fig-align="center" width="50%"}
 
-[[Great Expectations](https://www.monkeyuser.com/2019/great-expectations/){target="_blank"} from [MonkeyUser.com](https://www.monkeyuser.com/){target="_blank"}]{style="font-size: 75%;"}
+[[Great Expectations](https://www.monkeyuser.com/2019/great-expectations/){target="_blank"} from [MonkeyUser.com](https://www.monkeyuser.com/){target="_blank"}]{style="font-size: 70%;"}
 
 ::: footer
 
