@@ -526,7 +526,7 @@ R package `pretestcad` helps to ensure that these values can be calculated effic
 
 Available on [CRAN](https://cran.r-project.org/web/packages/pretestcad/index.html){target="_blank"}, [RUniverse](https://jauntyjjs.r-universe.dev/pretestcad){target="_blank"} and [Github](https://github.com/JauntyJJS/pretestcad){target="_blank"}.
 
-![](images/great_expectations.png){fig-alt="Comic from Monkeyuser.com showing too many bugs to fix during first day of release." fig-align="center" width="50%"}
+![](images/great_expectations.png){fig-alt="Comic howing too many bugs to fix during first day of release." fig-align="center" width="70%"}
 
 [[Great Expectations](https://www.monkeyuser.com/2019/great-expectations/){target="_blank"} from [MonkeyUser.com](https://www.monkeyuser.com/){target="_blank"}]{style="font-size: 70%;"}
 
